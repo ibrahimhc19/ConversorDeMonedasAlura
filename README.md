@@ -36,4 +36,4 @@ Para utilizar el conversor de divisas, sigue estos pasos:
 
 ## Autor
 
-Este desafío de conversor de divisas fue completado por [Tu Nombre].
+Este desafío de conversor de divisas fue completado por [Ibrahim Calzadilla Rada](https://github.com/ibrahimhc19).
